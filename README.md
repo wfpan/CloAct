@@ -17,3 +17,13 @@
 
 # RQ1~RQ4
 包含实验中获得的所有数据。
+
+# precision-recall
+包含precision、recall的结果（文中只报道了$F_1$）
+
+**结果中方法的名字与论文中名字的对应关系**
+
+|  ForwardPageRank-Sora    |    ForwardBackPageRank-Sora  |   g-core   |  TSEPageRank    | LiuPageRank     |  TSEPageRank_v15    |   
+| ---- | ---- | ---- | ---- | ---- | ---- | 
+| PageRank | PageRankBR | ICOOK | ElementRank | PageRankIVOL | Pride |  
+
